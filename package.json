@@ -30,5 +30,8 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "sass-loader": "^7.1.0"
+  },
+  "devDependencies": {
+    "testcafe": "^1.8.8"
   }
 }
